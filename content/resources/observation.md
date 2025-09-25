@@ -4,6 +4,8 @@ description: Lecture presentation on ethnographic observation.
 file: /courses/15-821-listening-to-the-customer-fall-2002/0e5fb90b160875ba3f95a2f7c5b3fd6f_observation.pdf
 file_size: 69768
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

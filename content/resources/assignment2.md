@@ -4,6 +4,8 @@ description: "Assignment on Zaltman\u2019s metaphor elicitation method."
 file: /courses/15-821-listening-to-the-customer-fall-2002/ba07a5c96b751f98f72d5f9a4b563f2b_assignment2.pdf
 file_size: 55503
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
