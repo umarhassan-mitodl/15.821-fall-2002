@@ -5,6 +5,8 @@ description: Course project on how to conduct a Voice of the Customer, and how t
 file: /courses/15-821-listening-to-the-customer-fall-2002/346426e053117e9fc9112e0bde4a6d9c_assignment_12.pdf
 file_size: 81176
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
